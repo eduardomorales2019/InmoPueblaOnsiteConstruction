@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="hero">
-          <h2 className="sitio">Sitio en construccion</h2>
+          <h2 className="sitio">Sitio en construcción</h2>
           <h1> Inmo - Puebla</h1>
           {/* <h3 className="naming">
             compra, renta , administracion de propiedades
