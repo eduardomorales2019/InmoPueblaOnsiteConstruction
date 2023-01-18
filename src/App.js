@@ -6,7 +6,7 @@ function App() {
       <header className='App-header'>
         <div className='hero'>
           <h2 className='sitio'>Sitio en construcción</h2>
-          <h1> Inmo - PueblA</h1>
+          <h1> Inmo - PueblAA</h1>
           {/* <h3 className="naming">
             compra, renta , administracion de propiedades
           </h3> */}
